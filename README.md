@@ -12,38 +12,6 @@ Applied IP addressing, subnetting, and routing protocols.
 
 Tested connectivity using ping and simulation mode.
 
-🔹 Key Features
 
-✅ Structured network design following networking principles.
 
-✅ Subnetting to optimize IP address usage.
 
-✅ Configured static/dynamic routing for packet delivery.
-
-✅ Demonstrated LAN/WAN communication in the simulation.
-
-🔹 Tools & Technologies
-
-Cisco Packet Tracer
-
-Networking concepts from DCCN
-
-🔹 How to Use
-
-Download and install Cisco Packet Tracer.
-
-Clone this repository or download the .pkt file.
-
-Open the project in Packet Tracer.
-
-Explore the topology and run the simulation.
-
-🔹 Learning Outcome
-
-This project helped in understanding:
-
-Network design and configuration.
-
-IP addressing and subnetting.
-
-Routing concepts in computer networks.
